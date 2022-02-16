@@ -1,7 +1,7 @@
 a=int(input("enter how many subjects you have?"))
 total=0
 for i in range(a):
-    i=int(input("enter marks in each subject"))
+    i=int(input("enter the marks in each subject"))
     total=total+i
     p=float((total/(a*100))*100)
 print(p,"is the percentage")

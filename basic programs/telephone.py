@@ -9,7 +9,7 @@ options()
 d={}
 ch=0
 while(ch!=6):
-    ch=int(input("enter a choice"))
+    ch=int(input("enter a one choice"))
     if ch==1:
         name=input("enter name")
         num=int(input("enter a number"))

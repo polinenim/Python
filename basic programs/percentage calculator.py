@@ -20,4 +20,4 @@ elif(p>49 and p<40):
 elif(p>44 and p<40):
     print("pass")
 elif(p<40):
-    print("fail")
+    print(" fail")

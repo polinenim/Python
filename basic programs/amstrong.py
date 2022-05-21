@@ -6,4 +6,4 @@ for i in range(1,1000):
         s=s+r**3
         b=b//10
     if (s==i):
-        print(i,"is a amstrong number")
+        print(i,"is a  amstrong number")

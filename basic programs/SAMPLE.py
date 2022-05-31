@@ -1,5 +1,5 @@
 arr = []
-n = int(input("enter size of array : "))
+n = int(input("enter size of array: "))
 for i in range(n):
     i=int(input("enter element of array : "))
     arr.append(i)
